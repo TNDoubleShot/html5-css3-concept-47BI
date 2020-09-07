@@ -3,4 +3,4 @@
     página e suas folhas de estilo, para fácil manutenção e implementações futuras.
     
 ## Página Inicial Finalizada
-    ![página principal finalizada](https://github.com/TNDoubleShot/html5-css3-concept-47BI/blob/master/img/pagina_incial.png)
+    ![pagina_incial](https://user-images.githubusercontent.com/23579307/92347594-909e1680-f09e-11ea-8e75-da5cd09c2252.png)
